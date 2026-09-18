@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0",
-  "download_url": "https://github.com/97tg7kt8ws-pixel/VT-st/releases/download/v2.0.0/IndependentProductStudio_Windows_x64_v2.0.0.zip",
-  "sha256": "0bc7d95f192c75b780e1415811dcd35ca0e566a3d7ebf4c9cf2634a5d5505fd3",
-  "size_bytes": 127337290,
-  "notes": "2.0.0：加入便携版在线检查、下载进度、SHA-256 校验、自动替换、失败回滚和自动重启。",
+  "version": "2.0.1",
+  "download_url": "https://github.com/97tg7kt8ws-pixel/VT-st/releases/download/v2.0.1/IndependentProductStudio_Windows_x64_v2.0.1.1.zip",
+  "sha256": "9a2175f01058866e5228a8e1f4980caab529e794281c5a895b28d0b725ef5098",
+  "size_bytes": 127338458,
+  "notes": "2.0.1：真实生成 EXIF 新增完整国家/地区选择；不写入 GPS；默认接入 GitHub 在线更新地址。",
   "mandatory": false
 }
