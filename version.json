@@ -1,8 +1,8 @@
 {
-  "version": "2.0.1",
-  "download_url": "https://github.com/97tg7kt8ws-pixel/VT-st/releases/download/v2.0.1/IndependentProductStudio_Windows_x64_v2.0.1.1.zip",
-  "sha256": "9a2175f01058866e5228a8e1f4980caab529e794281c5a895b28d0b725ef5098",
-  "size_bytes": 127338458,
-  "notes": "2.0.1：真实生成 EXIF 新增完整国家/地区选择；不写入 GPS；默认接入 GitHub 在线更新地址。",
+  "version": "2.0.2",
+  "download_url": "https://github.com/97tg7kt8ws-pixel/VT-st/releases/download/v2.0.2/IndependentProductStudio_Windows_x64_v2.0.2.zip",
+  "sha256": "8bd1599c2a7e21e54f729304872f55380bb0a84a90f6e537cab5f8a6b5fdc8be",
+  "size_bytes": 127343978,
+  "notes": "2.0.2：修复俯拍衣物站立和物理错误；强化真实手机摄影提示词；新增生成后物理质检与自动重生。",
   "mandatory": false
 }
