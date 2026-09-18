@@ -1,8 +1,8 @@
 {
-  "version": "2.0.3",
-  "download_url": "https://github.com/97tg7kt8ws-pixel/VT-st/releases/download/v2.0.3/IndependentProductStudio_Windows_x64_v2.0.3.zip",
-  "sha256": "b7c3451a0490afb87b0466c5a7f82142a3074c13d70e9f5cbd7314e4f13895b7",
-  "size_bytes": 127343393,
-  "notes": "2.0.3：修复在线更新安装完成后软件未自动重启；清理残留进程、释放单实例锁，并新增启动检测、自动重试和失败回退。",
+  "version": "2.1.1",
+  "download_url": "https://github.com/97tg7kt8ws-pixel/VT-st/releases/download/v2.1.0/IndependentProductStudio_Windows_x64_v2.1.1.zip",
+  "sha256": "3c1c58475206dcd02ab74e947c7218de544d59568fef3774f839f40ab7209448",
+  "size_bytes": 127238405,
+  "notes": "2.1.1：强化真实生活背景提示和假背景质检；默认使用 high 生图质量；提高 JPEG 输出品质并新增自然清晰增强。",
   "mandatory": false
 }
