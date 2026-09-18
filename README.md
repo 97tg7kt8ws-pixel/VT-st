@@ -4,13 +4,19 @@
 
 ## 当前版本
 
-- 版本：2.0.0
-- 软件包：`IndependentProductStudio_Windows_x64_v2.0.0.zip`
+- 版本：2.0.1
+- 软件包：`IndependentProductStudio_Windows_x64_v2.0.1.1.zip`
+- SHA-256：`9a2175f01058866e5228a8e1f4980caab529e794281c5a895b28d0b725ef5098`
 - 安装方式：完整解压后双击 `IndependentProductStudio.exe`
 
-## 软件内更新地址
+## v2.0.1 更新内容
 
-在软件的“设置与更新”中填写：
+- 真实生成 EXIF 新增完整国家/地区选择。
+- 国家以英文名称和两位地区代码写入。
+- 不写入或伪造 GPS 经纬度。
+- 默认接入此 GitHub 在线更新地址。
+
+## 软件内更新地址
 
 ```text
 https://raw.githubusercontent.com/97tg7kt8ws-pixel/VT-st/main/version.json
