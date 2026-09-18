@@ -1,0 +1,8 @@
+{
+  "version": "2.0.0",
+  "download_url": "https://github.com/97tg7kt8ws-pixel/VT-st/releases/download/v2.0.0/IndependentProductStudio_Windows_x64_v2.0.0.zip",
+  "sha256": "0bc7d95f192c75b780e1415811dcd35ca0e566a3d7ebf4c9cf2634a5d5505fd3",
+  "size_bytes": 127337290,
+  "notes": "2.0.0：加入便携版在线检查、下载进度、SHA-256 校验、自动替换、失败回滚和自动重启。",
+  "mandatory": false
+}
