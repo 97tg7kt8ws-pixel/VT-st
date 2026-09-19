@@ -1,8 +1,8 @@
 {
-  "version": "2.2.2",
-  "download_url": "https://github.com/97tg7kt8ws-pixel/VT-st/releases/download/v2.2.2/IndependentProductStudio_Windows_x64_v2.2.2.zip",
-  "sha256": "8e65fe357e6aaa11c3b8b268a15b2ee77fc93b6ef0a1ec19ebcb4fd351c608ef",
-  "size_bytes": 127245490,
-  "notes": "2.2.2：全部1500个背景提示词升级为中文结构化模板；固定唯一承托面、原图光线、材质颜色与原构图；禁止扩图、补边、缩图、重新取景、移动商品及新增布景；加强真实二手卖家手机随拍效果与物理质检。",
+  "version": "2.2.3",
+  "download_url": "https://github.com/97tg7kt8ws-pixel/VT-st/releases/download/v2.2.3/IndependentProductStudio_Windows_x64_v2.2.3.zip",
+  "sha256": "b8a3b8099450a60f78349e35cd666603e165966ca40adbc1c8cd5f950082682f",
+  "size_bytes": 127247457,
+  "notes": "2.2.3：平铺提示词加入真人正上方手机拍摄判断，强化重心、布料塌落、纹理遮挡和贴面阴影；生成后质检模拟真人现场复现；追加背景提示词提升为背景生成最高优先级。",
   "mandatory": false
 }
