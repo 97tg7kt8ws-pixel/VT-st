@@ -1,8 +1,8 @@
 {
-  "version": "2.2.3",
-  "download_url": "https://github.com/97tg7kt8ws-pixel/VT-st/releases/download/v2.2.3/IndependentProductStudio_Windows_x64_v2.2.3.zip",
-  "sha256": "b8a3b8099450a60f78349e35cd666603e165966ca40adbc1c8cd5f950082682f",
-  "size_bytes": 127247457,
-  "notes": "2.2.3：平铺提示词加入真人正上方手机拍摄判断，强化重心、布料塌落、纹理遮挡和贴面阴影；生成后质检模拟真人现场复现；追加背景提示词提升为背景生成最高优先级。",
+  "version": "2.2.4",
+  "download_url": "https://github.com/97tg7kt8ws-pixel/VT-st/releases/download/v2.2.4/IndependentProductStudio_Windows_x64_v2.2.4.zip",
+  "sha256": "f9ebb9faa97ad601239270f16974d53f195c47f042a36ac4bf668af613a4dac7",
+  "size_bytes": 127250462,
+  "notes": "2.2.4：新增服装原图拍摄状态识别；真人穿搭、平铺、悬挂和有支撑摆放分别锁定；站立穿搭自动排除床面、沙发、桌面和软垫；高清物理质检检查脚底承托、机位透视及主体一致性，失败默认自动重生3次。",
   "mandatory": false
 }
