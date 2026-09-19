@@ -1,8 +1,8 @@
 {
-  "version": "2.1.1",
-  "download_url": "https://github.com/97tg7kt8ws-pixel/VT-st/releases/download/v2.1.0/IndependentProductStudio_Windows_x64_v2.1.1.zip",
-  "sha256": "3c1c58475206dcd02ab74e947c7218de544d59568fef3774f839f40ab7209448",
-  "size_bytes": 127238405,
-  "notes": "2.1.1：强化真实生活背景提示和假背景质检；默认使用 high 生图质量；提高 JPEG 输出品质并新增自然清晰增强。",
+  "version": "2.2.2",
+  "download_url": "https://github.com/97tg7kt8ws-pixel/VT-st/releases/download/v2.2.2/IndependentProductStudio_Windows_x64_v2.2.2.zip",
+  "sha256": "8e65fe357e6aaa11c3b8b268a15b2ee77fc93b6ef0a1ec19ebcb4fd351c608ef",
+  "size_bytes": 127245490,
+  "notes": "2.2.2：全部1500个背景提示词升级为中文结构化模板；固定唯一承托面、原图光线、材质颜色与原构图；禁止扩图、补边、缩图、重新取景、移动商品及新增布景；加强真实二手卖家手机随拍效果与物理质检。",
   "mandatory": false
 }
