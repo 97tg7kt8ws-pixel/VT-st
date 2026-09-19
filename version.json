@@ -1,8 +1,8 @@
 {
-  "version": "2.2.4",
-  "download_url": "https://github.com/97tg7kt8ws-pixel/VT-st/releases/download/v2.2.4/IndependentProductStudio_Windows_x64_v2.2.4.zip",
-  "sha256": "f9ebb9faa97ad601239270f16974d53f195c47f042a36ac4bf668af613a4dac7",
-  "size_bytes": 127250462,
-  "notes": "2.2.4：新增服装原图拍摄状态识别；真人穿搭、平铺、悬挂和有支撑摆放分别锁定；站立穿搭自动排除床面、沙发、桌面和软垫；高清物理质检检查脚底承托、机位透视及主体一致性，失败默认自动重生3次。",
+  "version": "2.2.8",
+  "download_url": "https://github.com/97tg7kt8ws-pixel/VT-st/releases/download/v2.2.8/IndependentProductStudio_Windows_x64_v2.2.8.zip",
+  "sha256": "857dfec634b750cd8eb480360fd2e2921c31cd99556ef923e2e6f33427fc05e2",
+  "size_bytes": 127260367,
+  "notes": "v2.2.8：新增独立质检视觉模型设置与图片识别测试；默认可填写 GPT-5.5，若无权限或不支持图片会自动尝试接口实际提供的其他视觉模型；WebP 原图自动转换为临时 PNG 后处理，不覆盖原文件。",
   "mandatory": false
 }
